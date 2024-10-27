@@ -40,6 +40,6 @@ setup(name='pybars3-wheel',
           'Programming Language :: Python :: 3.4'
           ],
       install_requires=[
-          'PyMeta3>=0.5.1',
+          'PyMeta3-wheel>=0.5.1',
           ],
       )
